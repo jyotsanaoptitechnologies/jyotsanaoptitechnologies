@@ -1,0 +1,139 @@
+
+.image
+{   width: 80%;
+    padding-left: 30px;
+    margin-left:15cm;
+    margin-top: 5cm;
+}
+.style
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(8, 14, 100);
+    size:60px;
+    font-size: 25px;
+    margin-left: 47px;
+}
+.design
+{
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    animation-name: inherit;
+    color:rgb(3, 7, 43);
+    background: linear-gradient(to right,rgba(73, 248, 190, 0.753),rgba(248, 231, 81, 0.986));
+    }
+.heading
+{   font-size:50px;
+    font-family: inherit;
+    font-weight: bolder;
+    font-weight:200px;
+    color: rgb(8, 6, 119);
+    padding-left:8cm;
+    background-color: linen;
+    }
+.info
+{   font-family: serif;
+    margin-right: 3cm;
+    margin-left: 2cm;
+color:rgb(15, 15, 13)}
+h1
+{   text-underline-position: below;
+    color: rgb(90, 65, 8);}
+.contain
+{
+    padding-left: 50px;
+    display:inline-block;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    min-width: inherit;
+    min-height: inherit;
+}
+.img 
+{width:400px;
+margin-top: 50px;}
+ul
+{list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:rgb(1, 1, 27);}
+li
+{
+    float: left;
+}
+li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 25px;
+    text-decoration: none;
+}
+li a:hover
+{background-color: rgb(224, 78, 41);
+color: #ece93b;}
+.whatsapp
+{
+    position: fixed;
+    width: 80px;
+    height: 80px;
+    bottom: 50px;
+    left:1370px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 80;
+    
+}
+.my-whatsapp
+{
+    margin-top:7px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 40%;
+  }
+  .facebook
+  {
+    position: fixed;
+    width:80px;
+    height: 80px;
+    bottom: 150px;
+    left:1370px;
+    background-color: #3B5998;
+    color: #fff;
+    border-radius: 60px;
+    text-align: center;
+    font-size: 30px;
+    z-index:100;
+}
+.my-facebook
+{
+    margin-top:1px;
+}
+.instagram
+  {
+    position: fixed;
+    width:80px;
+    height: 80px;
+    bottom: 250px;
+    left:1370px;
+    background:radial-gradient(circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: #fff;
+    border-radius: 60px;
+    text-align: center;
+    font-size: 30px;
+    z-index:100;
+}
+.my-instagram
+{
+    margin-top:1px;
+}
